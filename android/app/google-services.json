@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "151138394945",
+    "firebase_url": "https://tipe-it.firebaseio.com",
+    "project_id": "tipe-it",
+    "storage_bucket": "tipe-it.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:151138394945:android:a108a364b2622b5f",
+        "android_client_info": {
+          "package_name": "com.ritar.tipe_it"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "151138394945-nl7rtvhlb96s2urqv61a2l4j7no4675d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4kUxubvPjDZpVteV_GhJIwb1lg-lVjjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "151138394945-nl7rtvhlb96s2urqv61a2l4j7no4675d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
